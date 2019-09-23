@@ -10,5 +10,6 @@
 int main(int argc, const char *argv[])
 {
 	printf("dsajd");
+	printf("adhkas");
     return 0;
 }
